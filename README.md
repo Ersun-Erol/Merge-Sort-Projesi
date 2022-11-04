@@ -19,5 +19,6 @@ Patika - Veri Yapıları ve Algoritmalar Derslerinin Alıştırma Projeleri Kaps
 ```
 O(nlogn)
 ```
-Patika.dev profilime [buradan ](https://app.patika.dev/ersun)ulaşabilirsiniz.
 ---
+Patika.dev profilime [buradan ](https://app.patika.dev/ersun)ulaşabilirsiniz.
+
